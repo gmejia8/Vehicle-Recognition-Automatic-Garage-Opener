@@ -1,5 +1,7 @@
 # Vehicle-Recognition-Automatic-Garage-Opener
-Rasberry Pi driven vehicle recognition that varifies your license plate and other programmed verifications to trigger your garage door to open Languages: Python, Node-Red Frameworks/Libraries: OpenALPR
+Rasberry Pi driven vehicle recognition that verifies your license plate and other programmed verifications to trigger your garage door to open
+#Technologies Used
+Languages: Python, Node-Red Frameworks/Libraries: OpenALPR
 
 ## Version Control
 ### master branch
